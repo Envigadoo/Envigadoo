@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Envigadoo
-- 👀 I’m interested in network and application security 
+- 👀 I’m interested in ethical hacking and network security 
 - 🌱 I’m currently learning penetration testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
